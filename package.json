@@ -1,0 +1,9 @@
+{
+  "name": "kscope-app-test-repo",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Test repo with a deliberately outdated dependency",
+  "dependencies": {
+    "lodash": "4.17.15"
+  }
+}
